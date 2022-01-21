@@ -1,0 +1,76 @@
+body {
+  margin: 0px;
+  flex-direction: row;
+  font-family: Arial;
+}
+#titulo {
+  text-align: right;
+}
+.subtitulo {
+  color: white;
+  margin: 10px;
+}
+.bloco1 {
+  width: 800px;
+  height: 120px;
+  padding: 35px;
+  margin: 15px;
+  margin-left: 400px;
+  border-radius: 4px;
+  background: #000;
+  box-align: center;
+  text-align: justify;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.bloco2 {
+  width: 800px;
+  height: 120px;
+  padding: 35px;
+  margin: 10px;
+  margin-left: 400px;
+  border-radius: 4px;
+  background: #000;
+  text-align: justify;
+}
+div span {
+  color: #febe01;
+  border-radius: 4px;
+}
+.botao1 {
+  color: #320;
+  background-color: #febe01;
+  width: 115px;
+  height: 25px;
+  padding: 6px;
+  margin: 15px;
+  display: inline-block;
+}
+.botao2 {
+  color: #332200;
+  background-color: #febe01;
+  width: 140px;
+  height: 25px;
+  padding: 6px;
+  margin: 15px;
+  display: inline-block;
+}
+
+div p {
+  color: #b2b2b2;
+  text-align: start, center;
+  padding: px;
+  margin: 10px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+/* button {
+  display: inherit;
+  background-color: #febe01;
+  border-radius: 4px;
+
+} Aqui eu tava tentando juntar o buttom com "a" para ver se formava um botão mesmo, que ao clicar levava aonde iria encaminhar.*\
+
+/* Aqui eu estava tentando fazer uma tarefa, aonde tinha que replicar oque o professor fez, foi umas das primeiras vezes que usei tudo que sabia para fazer algo no html e css. *\
